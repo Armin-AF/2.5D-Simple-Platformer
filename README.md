@@ -11,7 +11,7 @@
 ## Installation
 To run the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/2.5D-Simple-Platformer.git`
+1. Clone the repository: `git clone https://github.com/Armin-AF/2.5D-Simple-Platformer.git`
 2. Open the project in Unity.
 3. Ensure that all required dependencies and assets are properly imported.
 4. Build and run the project.
